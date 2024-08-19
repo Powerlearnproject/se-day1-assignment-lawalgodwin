@@ -30,7 +30,7 @@ Every Software engineering project undergoes the following phases:
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 The Waterfall methodology is a Sequential approach with distinct phases (e.g., requirements, design, implementation).
-Waterfall project management works best when the scope and specifics of the work are known. When your project has clearly defined requirements and a clear scope that’s unlikely to change, waterfall usually works well.
+Waterfall project management works best when the scope and specifics of the work are known. When your project has clearly defined requirements and a clear scope that is unlikely to change, waterfall usually works well.
 The Agile methodology is an iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 There are times when you must start a project without a clear vision of the end product, and it’s nearly impossible to build a waterfall under those conditions. For such projects, agile is a better fit
 
